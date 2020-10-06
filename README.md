@@ -48,3 +48,8 @@ This was a challenging project. Particularly consolidating and saving text to lo
 in this project I was able to execute and you can see in the working and functioning application
 that has the correct color blocks and allows a user to add activity and save there schedule by the hour.
 Please see screen shot below.
+
+
+
+
+![daily planner demo](/daily-planner/Daily Planner Screen Shot Read Me.PNG)
