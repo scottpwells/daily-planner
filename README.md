@@ -5,15 +5,13 @@ Summary:
 project daily planner tasked me with creating a simple calendar application that allows users to save events for each hour of the day by modifying starter code. So
 that the app would run in a browser and feature the momentjs library to dynamically update HTML and CSS powered by JQuery to display the date and hour of the work day
 between 9 to 5. Such that when a user inputs there schedule by the hour it one saves the hourly schedule to local storage and presents the present hour time block in red
-and the past time blocks in grey and future time blocks in green. If you click on the link below. You will see that 
+and the past time blocks in grey and future time blocks in green. Below I included a function link to the web application. 
 
 
+https://scottpwells.github.io/daily-planner/
 
 
-
-Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
-
-You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+Project Criteria:
 
 
 ## User Story
@@ -42,3 +40,11 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+
+
+Project Notes:
+
+This was a challenging project. Particularly consolidating and saving text to local storage, but
+in this project I was able to execute and you can see in the working and functioning application
+that has the correct color blocks and allows a user to add activity and save there schedule by the hour.
+Please see screen shot below.
