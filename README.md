@@ -52,4 +52,4 @@ Please see screen shot below.
 
 
 
-![daily planner demo](/daily-planner/Daily Planner Screen Shot Read Me.PNG)
+![daily planner demo](Daily-planner-screenshot.PNG)
